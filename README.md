@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is simple website. repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from feature brach too.
+This is simple website. repository is for showing how Git and GitHub work. emergency fix
 
 ## Deployments
 This i simple web projects.
