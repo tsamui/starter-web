@@ -7,3 +7,5 @@ This i simple web projects.
 ## Purpose
 
 Sample website with plenty of files for demos. This is public website.
+## Copyright
+1014 git training
