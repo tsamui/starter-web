@@ -1,5 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
-addig to newbad line
+
 This is simple test to test revert1
